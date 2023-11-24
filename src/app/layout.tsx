@@ -8,7 +8,7 @@ import { headers } from "next/headers";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "MeetRecap",
+  title: "MeetRecap.com",
   description: "Hey I am Vallabh Wasule",
 };
 
